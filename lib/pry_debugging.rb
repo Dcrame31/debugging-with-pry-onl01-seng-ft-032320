@@ -4,4 +4,4 @@ def plus_two(num)
 	
 end
 
-plus_two(1)
+plus_two()

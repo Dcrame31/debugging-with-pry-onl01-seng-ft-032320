@@ -3,3 +3,5 @@ def plus_two(num)
 	count +2 
 	
 end
+
+plus_two(1)
